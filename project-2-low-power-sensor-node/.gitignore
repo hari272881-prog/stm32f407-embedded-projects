@@ -1,0 +1,14 @@
+/Debug/
+/Release/
+*.launch
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.map
+*.list
+*.log
+.DS_Store
+Thumbs.db
+
